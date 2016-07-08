@@ -7,4 +7,3 @@ I'm just learning how to use GitHub and the creation of this file is part of tha
 Today I fiddled with learning how to set up Atom and create some snippets.
 Lately, I've been learning how to utilize Unix for OS X and I've written a few scripts for myself.
 Trying to keep things coordinated between my desktop and laptop computers is slightly challenging.
-
